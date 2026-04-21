@@ -1,0 +1,23 @@
+{
+  "name": "aidrift-marketplace",
+  "owner": {
+    "name": "GenioHub",
+    "email": "support@geniohub.com"
+  },
+  "metadata": {
+    "description": "Plugins for the AI Drift Detector ecosystem — detect and recover from drift in Claude Code sessions."
+  },
+  "plugins": [
+    {
+      "name": "aidrift",
+      "source": "./plugins/aidrift",
+      "description": "AiDrift slash commands, hooks, and MCP tools for Claude Code.",
+      "version": "0.1.0",
+      "author": {
+        "name": "GenioHub",
+        "email": "support@geniohub.com"
+      },
+      "homepage": "https://drift.geniohub.com"
+    }
+  ]
+}
