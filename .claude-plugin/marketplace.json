@@ -16,7 +16,7 @@
         "ref": "main"
       },
       "description": "AiDrift slash commands, hooks, and MCP tools for Claude Code.",
-      "version": "0.3.1",
+      "version": "0.4.0",
       "author": {
         "name": "GenioHub",
         "email": "support@geniohub.com"
